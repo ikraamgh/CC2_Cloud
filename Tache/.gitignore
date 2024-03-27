@@ -1,0 +1,11 @@
+# Ignorer les fichiers log
+*.log
+
+# Ignorer le répertoire node_modules
+node_modules/
+
+# Ignorer les fichiers de configuration contenant des informations sensibles
+config.json
+
+package-lock.json
+package.json
